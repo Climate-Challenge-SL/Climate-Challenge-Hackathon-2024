@@ -3,5 +3,5 @@ Climate Challenge is an initiative that presents a distinctive opportunity for t
 Agriculture Datasets: https://www.data.gov.in/sector/Agriculture
                       https://www.kaggle.com/datasets/unitednations/global-food-agriculture-statistics
                       https://www.kaggle.com/datasets/srinivas1/agricuture-crops-production-in-india
-                      https://www.kaggle.com/datasets/vineetkukreti/indian-agriculture-datasetFishery Datasets
+                      https://www.kaggle.com/datasets/vineetkukreti/indian-agriculture-datasetFishery
                       https://www.data.gov.in/catalog/tamil-nadu-fisheries-glance-2020-21
